@@ -19,7 +19,7 @@ time.sleep(3)
 TITULO = 'FIREFOX O MELHOR NAVEGADOR'
 TEXTO = '<img src="https://www.muraldecal.com/en/img/orp042-jpg/folder/products-listado-merchant/stickers-mozilla-firefox-logo.jpg" />Comece a navegar, e iremos mostrar-lhe alguns dos ótimos artigos, vídeos, e outras páginas que visitou recentemente ou adicionou aos marcadores aqui.'
 
-your_blog = Client('https://www.seusite.com.br/xmlrpc.php', 'seu-user-aqui', 'sua-senha-aqui')
+your_blog = Client('https://www.seusite.com.br/xmlrpc.php', 'seu-user-aqui', 'qRfsj2Ix0WjnjppG8lMHQ*5O')
 
 myposts=your_blog.call(posts.GetPosts())
         
